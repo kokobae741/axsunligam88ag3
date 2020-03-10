@@ -1,0 +1,20 @@
+# hostname
+# hostname:80
+
+a23.g.akamai.net
+a1958.q.akamai.net
+a3233.q.akamai.net
+
+
+
+
+
+
+
+
+
+
+
+
+
+
